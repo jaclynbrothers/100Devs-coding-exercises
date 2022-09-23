@@ -3,7 +3,7 @@ This website asks the user to enter a date in order to display the NASA picture 
 
 <!-- **Link to project:** website link here -->
 
-Video link here
+https://user-images.githubusercontent.com/102431119/192051818-12f2083d-d1f4-4a9c-86af-8375a873c21f.mp4
 
 ## How It's Made
 
